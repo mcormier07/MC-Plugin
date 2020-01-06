@@ -1,0 +1,13 @@
+api-version: 1.13
+name: LiveBobPlugin
+version: 1.0
+author: Scorpio
+main: fr.scorpio.lbp.Main
+commands:
+  help:
+    description: Affiche l'aide du serveur
+    permission: lbp.help
+  spawn:
+    description: Téléporte au spawn
+  clans:
+    description: Téléporte à la salle des clans
